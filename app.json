@@ -1,7 +1,7 @@
 {
   "name": "GDrive-Uploader-Bot V3",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/gillommnathony/GdriveUploaderBotV3/",
+  "repository": "https://github.com/Itz-mst-boy/GdriveUploaderBotV3/",
   "logo": "https://telegra.ph/file/5c26b2c17722757384490.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
@@ -20,11 +20,11 @@
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "1844031429"
+      "value": ""
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://t.me/moedyiu"
+      "value": "https://t.me/mukhushi_official"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
