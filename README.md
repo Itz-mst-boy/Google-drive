@@ -1,6 +1,5 @@
 # Google Drive Uploader Telegram Bot
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/gduploadv3_bot)
 
 ## Features
 - [X] Telegram files support.
@@ -40,11 +39,11 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/gillommnathony/GdriveUploaderBotV3
+git clone https://github.com/Itz-mst-boy/Google-drive
 ```
 - Change Directory
 ```sh 
-cd GDUPLOAD_BOT2
+cd Google drive
 ```
 - Install requirements with pip3
 ```sh 
